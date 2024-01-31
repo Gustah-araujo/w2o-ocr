@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php": ">=8.0",
+        "thiagoalessio/tesseract_ocr": "^2.13",
+        "spatie/pdf-to-image": "^1.2"
+    }
+}
